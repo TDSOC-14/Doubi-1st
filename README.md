@@ -1,2 +1,2 @@
-# DOUBI1st
-a programming language by monitor Li Zhuoran's idea
+# DOUBI 1st
+A programming language by monitor Li Zhuoran's idea.
